@@ -1,0 +1,12 @@
+{
+    "num layer conv": 4,
+    "output_lin_dim": [
+        16,
+        1
+    ],
+    "hidden_dim": 30,
+    "kernel_size": [
+        3,
+        3
+    ]
+}
